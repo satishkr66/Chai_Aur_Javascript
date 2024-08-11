@@ -1,0 +1,11 @@
+const is not  allowed to change .
+==>TypeError: Assignment to constant variable. 
+
+{
+    its call as scope.
+}
+
+Use only const and let .
+perfered not to use var .
+
+when we decleare variable without assigning that it gives default as value .
